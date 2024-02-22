@@ -188,7 +188,28 @@ p{
 }
 
 /* 3 Banner  */
-
+.banner_wrapper{
+    padding-top: 6.875rem;
+    z-index: 1;
+    background-image: url('../images/home-banner.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}   
+.banner_wrapper .banner-content{
+    vertical-align: middle;
+    align-self: center;
+}
+.banner_wrapper .banner-content h2::after {
+    content: '';
+    width: 60%;
+    height: 0.125rem;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    background: var(--bg-black);
+    overflow-x: hidden;
+}
 
 /* 4 About  */
 
