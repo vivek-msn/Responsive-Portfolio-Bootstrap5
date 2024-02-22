@@ -148,6 +148,16 @@ p{
 
 /* 2 Navbar */
 
+.header_wrapper .navbar{
+    padding: 0.9375rem 0;
+    transition:all .2s linear;
+    -o-transition: all .2s linear;
+    -webkit-transition:all .2s linear;
+}
+.header_wrapper .navbar-brand img{
+    max-width: 10rem;
+    height: auto;
+}
 
 /* 3 Banner  */
 
