@@ -172,7 +172,10 @@ p{
     color: var(--text-black);
     display: inline-block;
 }
-
+.header_wrapper .nav-item .nav-link.active,
+.header_wrapper .nav-item .nav-link:hover{
+    color: var(--primary-text);
+}
 
 /* 3 Banner  */
 
