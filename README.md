@@ -7,15 +7,12 @@ This is a simple project portfolio landing page built using Bootstrap 5, HTML, C
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
 ![Project Portfolio Landing Page](/demo/demo.gif)
 
-You can see a live demo [here](https://your-demo-url.com).
+You can see a live demo [here](https://vivek-msn.github.io/Responsive-Portfolio-Bootstrap5/).
 
 ## Features
 
